@@ -1,0 +1,9 @@
+body {
+  background-color: #2222;
+  font-family: sans-serif;
+  font-size: 35px;
+}
+
+h1{
+    color: var(--primary);
+}
